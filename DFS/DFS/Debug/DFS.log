@@ -1,0 +1,11 @@
+﻿  DFSandBFS.c
+C:\Users\86150\source\repos\DFS\DFS\DFSandBFS.c(63,9): warning C4477:  “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“VertexType *”
+C:\Users\86150\source\repos\DFS\DFS\DFSandBFS.c(63,9): message :  请考虑在格式字符串中使用“%hhd”
+C:\Users\86150\source\repos\DFS\DFS\DFSandBFS.c(56,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\86150\source\repos\DFS\DFS\DFSandBFS.c(63,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\86150\source\repos\DFS\DFS\DFSandBFS.c(79,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  源.c
+  正在生成代码...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
